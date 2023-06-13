@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=+5V_UNREG Pin=R3-1
+Removed Pin From Net: NetName=GND Pin=R3-2
+Change Component Footprint: Designator=R3 Old Footprint=RES_330_SMD_0805 New Footprint=RES_100_SMD_2512
+Change Component Comment : Designator=R3 Old Comment=330 New Comment=100
+Change component parameters: Designator = "R3"; Footprint = "RES_100_SMD_2512"; UniqueID = "\HHTHIVFM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "E:\NEW_DATA\ELECTRONIC_DOCUMENT\DATASHEET\2512std.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Container"; Value = "Resistors_Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Label"; Value = "2512-100R 5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "https://shopee.vn/Set-50-chip-%C4%90i%E1%BB%87n-T%E1%BB%AD-2512-SMD-5-1W-0.1R-0.01R-0.05R-0.001R-0.33R-1R-0R-10R-100R-2W-0.001-0.01-0.13-0.05-1-0-10-100-ohm-i.778834786.21104749216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "46"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range"; Value = "-55 to +155 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=+5V_UNREG Pin=R3-2
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=+5V_REG Pin=U1-8

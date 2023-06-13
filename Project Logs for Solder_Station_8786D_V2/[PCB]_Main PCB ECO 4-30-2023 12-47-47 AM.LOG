@@ -1,0 +1,96 @@
+Added Component: Designator=U4(TO252AA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\NEW_DATA\ELECTRONIC_DOCUMENT\DATASHEET\LM7805.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Container"; Value = "COMMON_IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Label"; Value = "REGULATOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "https://shopee.vn/Set-10-linh-ki%E1%BB%87n-%C4%91i%E1%BB%87n-t%E1%BB%AD-78M05-TO252-7805-L78M05CDT-78M06-78M08-78M09-78M12-78M15-7806-7808G-i.395117932.9460732059"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.065"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-65 to +150 degC"; VariantName = "[No Variations]"
+Added Component: Designator=U5(DIP4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\NEW_DATA\ELECTRONIC_DOCUMENT\DATASHEET\PC817X Series.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Container"; Value = "COMMON_IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Label"; Value = "PC817C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "https://shopee.vn/S%E1%BA%A3n-ph%E1%BA%A9m-Opto-PC817-Sharp-5V-5mA-i.311128107.8022468113"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-30 to +100 degC"; VariantName = "[No Variations]"
+Added Component: Designator=U7(DIP4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\NEW_DATA\ELECTRONIC_DOCUMENT\DATASHEET\PC817X Series.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Container"; Value = "COMMON_IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Label"; Value = "PC817C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "https://shopee.vn/S%E1%BA%A3n-ph%E1%BA%A9m-Opto-PC817-Sharp-5V-5mA-i.311128107.8022468113"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-30 to +100 degC"; VariantName = "[No Variations]"
+Added Component: Designator=U8(DIP4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\NEW_DATA\ELECTRONIC_DOCUMENT\DATASHEET\PC817X Series.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Container"; Value = "COMMON_IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Label"; Value = "PC817C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "https://shopee.vn/S%E1%BA%A3n-ph%E1%BA%A9m-Opto-PC817-Sharp-5V-5mA-i.311128107.8022468113"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-30 to +100 degC"; VariantName = "[No Variations]"
+Added Component: Designator=U9(TO252AA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\NEW_DATA\ELECTRONIC_DOCUMENT\DATASHEET\LM7805.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Container"; Value = "COMMON_IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Label"; Value = "REGULATOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "https://shopee.vn/Set-10-linh-ki%E1%BB%87n-%C4%91i%E1%BB%87n-t%E1%BB%AD-78M05-TO252-7805-L78M05CDT-78M06-78M08-78M09-78M12-78M15-7806-7808G-i.395117932.9460732059"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.065"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-65 to +150 degC"; VariantName = "[No Variations]"
+Added Component: Designator=U12(DIP4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\NEW_DATA\ELECTRONIC_DOCUMENT\DATASHEET\PC817X Series.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Container"; Value = "COMMON_IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Label"; Value = "PC817C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "https://shopee.vn/S%E1%BA%A3n-ph%E1%BA%A9m-Opto-PC817-Sharp-5V-5mA-i.311128107.8022468113"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-30 to +100 degC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=+5V_REG Pin=U1-8
+Added Pin To Net: NetName=+5V_UNREG Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=+5V_REG Pin=U4-3
+Added Pin To Net: NetName=NetR18_1 Pin=U5-1
+Added Pin To Net: NetName=NetC13_1 Pin=U5-2
+Added Pin To Net: NetName=NetR19_1 Pin=U5-3
+Added Pin To Net: NetName=+5V_NON Pin=U5-4
+Added Pin To Net: NetName=NetR25_2 Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=GND Pin=U7-3
+Added Pin To Net: NetName=NetR23_1 Pin=U7-4
+Added Pin To Net: NetName=NetR32_2 Pin=U8-1
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Pin To Net: NetName=GND Pin=U8-3
+Added Pin To Net: NetName=EN-IN Pin=U8-4
+Added Pin To Net: NetName=NetC11_1 Pin=U9-1
+Added Pin To Net: NetName=GND Pin=U9-2
+Added Pin To Net: NetName=+5V_NON Pin=U9-3
+Added Pin To Net: NetName=NetR27_2 Pin=U12-1
+Added Pin To Net: NetName=GND Pin=U12-2
+Added Pin To Net: NetName=GND Pin=U12-3
+Added Pin To Net: NetName=NetD7_1 Pin=U12-4
+Added Member To Class: ClassName=[SCH]_Main Member=Component U4 78M05
+Added Member To Class: ClassName=[SCH]_Main Member=Component U5 PC817C
+Added Member To Class: ClassName=[SCH]_Main Member=Component U7 PC817C
+Added Member To Class: ClassName=[SCH]_Main Member=Component U8 PC817C
+Added Member To Class: ClassName=[SCH]_Main Member=Component U9 78M05
+Added Member To Class: ClassName=[SCH]_Main Member=Component U12 PC817C

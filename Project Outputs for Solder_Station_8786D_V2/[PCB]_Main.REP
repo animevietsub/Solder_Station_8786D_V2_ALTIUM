@@ -1,0 +1,27 @@
+*************************************************************
+FileName = [PCB]_Main.GBR
+AutoAperture = True
+*************************************************************
+Generating : Keep-Out Layer
+      File : [PCB]_Main.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : [PCB]_Main.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+

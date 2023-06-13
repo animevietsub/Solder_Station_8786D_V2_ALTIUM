@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=V+ Pin=U1-4
+Added Pin To Net: NetName=V+ Pin=U1-8
+Added Member To Class: ClassName=[SCH]_Main Member=Component C4 104
+Added Member To Class: ClassName=[SCH]_Main Member=Component C10 104

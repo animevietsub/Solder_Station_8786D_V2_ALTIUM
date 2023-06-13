@@ -1,0 +1,28 @@
+Change Component Footprint: Designator=C9 Old Footprint=CAP_NON_200mil New Footprint=CAP-SMD-0805
+Change Component Footprint: Designator=C10 Old Footprint=CAP_NON_200mil New Footprint=CAP-SMD-0805
+Change Component Comment : Designator=C9 Old Comment=100nF New Comment=103
+Change Component Comment : Designator=C10 Old Comment=100nF New Comment=103
+Change component parameters: Designator = "C9"; Footprint = "CAP-SMD-0805"; UniqueID = "\GDYBSPBL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "E:\NEW_DATA\ELECTRONIC_DOCUMENT\DATASHEET\1723208.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Container"; Value = "Capacitors_Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Label"; Value = "0805-10NF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "https://shopee.vn/Set-100-T%E1%BB%A5-%C4%90i%E1%BB%87n-G%E1%BB%91m-0805-SMD-100pF-47uF-100pF-1nF-10nF-100nF-0.1uF-1uF-2.2uF-4.7uF-10uF-22uF-i.778834786.13694429713"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "89"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range"; Value = "-55 to +125 degC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10"; Footprint = "CAP-SMD-0805"; UniqueID = "\PCXETXVC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "E:\NEW_DATA\ELECTRONIC_DOCUMENT\DATASHEET\1723208.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Container"; Value = "Capacitors_Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Label"; Value = "0805-10NF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "https://shopee.vn/Set-100-T%E1%BB%A5-%C4%90i%E1%BB%87n-G%E1%BB%91m-0805-SMD-100pF-47uF-100pF-1nF-10nF-100nF-0.1uF-1uF-2.2uF-4.7uF-10uF-22uF-i.778834786.13694429713"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "89"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range"; Value = "-55 to +125 degC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=+5V_REG Pin=U1-8

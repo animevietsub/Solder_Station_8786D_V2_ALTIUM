@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=J2 Old Footprint=KF2/5.08 New Footprint=Header 2P
+Change Component Comment : Designator=J2 Old Comment=AC-IN New Comment=JUMPER
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=+5V_REG Pin=U1-8

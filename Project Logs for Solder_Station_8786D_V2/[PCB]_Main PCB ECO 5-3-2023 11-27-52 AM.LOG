@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=+34V Pin=C20-1
+Removed Pin From Net: NetName=GND Pin=C20-2
+Change Component Footprint: Designator=C2 Old Footprint=CAP_SMD_G New Footprint=CAP_AL_DIP_18X35
+Change Component Footprint: Designator=C3 Old Footprint=CAP_SMD_G New Footprint=CAP_AL_DIP_18X35
+Change Component Footprint: Designator=C20 Old Footprint=CAP_SMD_G New Footprint=CAP_NON_200mil
+Change Component Comment : Designator=C20 Old Comment=1000uF New Comment=100nF
+Change Component Comment : Designator=C2 Old Comment=1000uF New Comment=4700uF
+Change Component Comment : Designator=C3 Old Comment=1000uF New Comment=4700uF
+Change component parameters: Designator = "C2"; Footprint = "CAP_AL_DIP_18X35"; UniqueID = "\MEJKRWSQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "E:\NEW_DATA\ELECTRONIC_DOCUMENT\DATASHEET\0900766b8173e32a.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Container"; Value = "Capacitors_Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Label"; Value = "4700UF-50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "https://shopee.vn/-2-CON-(G39.4)-T%E1%BB%A5-h%C3%B3a-4-700uF-50V-(18x35mm)-(4700uF-50V)-i.29971197.1779362195?sp_atk=89aaee08-9251-40b8-862a-376625eebb3c&xptdk=89aaee08-9251-40b8-862a-376625eebb3c"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range"; Value = "-40 to +105 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4700uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "CAP_AL_DIP_18X35"; UniqueID = "\GMIXOTEY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "E:\NEW_DATA\ELECTRONIC_DOCUMENT\DATASHEET\0900766b8173e32a.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Container"; Value = "Capacitors_Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Label"; Value = "4700UF-50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "https://shopee.vn/-2-CON-(G39.4)-T%E1%BB%A5-h%C3%B3a-4-700uF-50V-(18x35mm)-(4700uF-50V)-i.29971197.1779362195?sp_atk=89aaee08-9251-40b8-862a-376625eebb3c&xptdk=89aaee08-9251-40b8-862a-376625eebb3c"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range"; Value = "-40 to +105 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4700uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20"; Footprint = "CAP_NON_200mil"; UniqueID = "\NUHMUCBS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "E:\NEW_DATA\ELECTRONIC_DOCUMENT\DATASHEET\2577800.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Container"; Value = "Capacitors_Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Label"; Value = "100nF-50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "https://shopee.vn/Set-100-T%E1%BB%A5-G%E1%BB%91m-50V-1pF-~-100nF-0.1uF-104-4.7PF-10PF-22PF-33PF-47PF-100PF-101-220PF-10NF-10NF-330PF-470PF-1NF-103-47NF-473-Ch%E1%BA%A5t-L%C6%B0%E1%BB%A3ng-Cao-i.778834786.17975668941?sp_atk=3a5fc38d-5123-497e-86f7-9862871296e1&xptdk=3a5fc38d-5123-497e-86f7-9862871296e1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range"; Value = "-25 to +85 degC"; VariantName = "[No Variations]"
+Added Component: Designator=C23(CAP_NON_200mil)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\NEW_DATA\ELECTRONIC_DOCUMENT\DATASHEET\2577800.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Container"; Value = "Capacitors_Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Label"; Value = "100nF-50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "https://shopee.vn/Set-100-T%E1%BB%A5-G%E1%BB%91m-50V-1pF-~-100nF-0.1uF-104-4.7PF-10PF-22PF-33PF-47PF-100PF-101-220PF-10NF-10NF-330PF-470PF-1NF-103-47NF-473-Ch%E1%BA%A5t-L%C6%B0%E1%BB%A3ng-Cao-i.778834786.17975668941?sp_atk=3a5fc38d-5123-497e-86f7-9862871296e1&xptdk=3a5fc38d-5123-497e-86f7-9862871296e1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-25 to +85 degC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=+34V Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=+34V Pin=C23-2
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=+5V_REG Pin=U1-8
+Added Member To Class: ClassName=[SCH]_Main Member=Component C23 100nF

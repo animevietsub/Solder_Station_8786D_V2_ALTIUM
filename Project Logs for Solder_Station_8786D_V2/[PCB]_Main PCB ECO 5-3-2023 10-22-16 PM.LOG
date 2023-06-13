@@ -1,0 +1,18 @@
+Added Component: Designator=D8(DIODE_KBU)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\NEW_DATA\ELECTRONIC_DOCUMENT\DATASHEET\KBU8005-hornby.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Container"; Value = "Diodes_Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Label"; Value = "DIODE_BRIDGE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "https://shopee.vn/-2-CON-(F17.5)-C%E1%BA%A7u-Diode-KBU808-8A-800V-(8A-d%E1%BA%B9t)-i.29971197.1928264848?sp_atk=6ddc136f-6260-42f4-9059-366cf929f085&xptdk=6ddc136f-6260-42f4-9059-366cf929f085"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.42"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to +125 degC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=GND Pin=D8-3
+Added Pin To Net: NetName=+34V Pin=D8-4
+Added Pin To Net: NetName=V+ Pin=U1-4
+Added Pin To Net: NetName=V+ Pin=U1-8
+Added Member To Class: ClassName=[SCH]_Main Member=Component D8 KBU808

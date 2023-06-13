@@ -1,0 +1,38 @@
+Added Component: Designator=R36(RES_10K_SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\NEW_DATA\ELECTRONIC_DOCUMENT\DATASHEET\RC0805.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Container"; Value = "Resistors_Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Label"; Value = "0805_Pack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "https://shopee.vn/Set-100con-%C4%90I%E1%BB%86N-TR%E1%BB%9E-D%C3%81N-0805-c%C3%A1c-lo%E1%BA%A1i-t%E1%BB%AB-1K2-3K-5K6-6K8-...820K-1M-i.633971954.15028739620"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "19"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to +155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R37(RES_10K_SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\NEW_DATA\ELECTRONIC_DOCUMENT\DATASHEET\RC0805.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Container"; Value = "Resistors_Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Label"; Value = "0805_Pack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "https://shopee.vn/Set-100con-%C4%90I%E1%BB%86N-TR%E1%BB%9E-D%C3%81N-0805-c%C3%A1c-lo%E1%BA%A1i-t%E1%BB%AB-1K2-3K-5K6-6K8-...820K-1M-i.633971954.15028739620"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "19"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to +155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R36-1
+Added Pin To Net: NetName=VREF Pin=R37-2
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=+5V_REG Pin=U1-8
+Added Pin To Net: NetName=HVREF Pin=M3-6
+Added Pin To Net: NetName=HVREF Pin=U3-6
+Added Pin To Net: NetName=HVREF Pin=U3-7
+Added Net: Name=HVREF
+Added Pin To Net: NetName=NetR36_2 Pin=R36-2
+Added Pin To Net: NetName=NetR36_2 Pin=R37-1
+Added Pin To Net: NetName=NetR36_2 Pin=U3-5
+Added Net: Name=NetR36_2
+Added Member To Class: ClassName=[SCH]_Main Member=Component R36 10K
+Added Member To Class: ClassName=[SCH]_Main Member=Component R37 10K

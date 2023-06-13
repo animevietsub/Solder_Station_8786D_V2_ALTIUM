@@ -1,0 +1,14 @@
+Change Component Description : Designator=C5 Old Description=ALUMINUM??ELECTROLYTIC??CAPACITORS New Description=ALUMINUM??ELECTROLYTIC??CAPACITORS
+Change Component Description : Designator=C18 Old Description=ALUMINUM??ELECTROLYTIC??CAPACITORS New Description=ALUMINUM??ELECTROLYTIC??CAPACITORS
+Added Component: Designator=HS1(HEATSINK_ALU_8.8X8.8X5_TO252)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Container"; Value = "HEATSINK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Label"; Value = "ALU_8.8X8.8X5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "https://shopee.vn/Set-5-mi%E1%BA%BFng-nh%C3%B4m-t%E1%BA%A3n-nhi%E1%BB%87t-cao-c%E1%BA%A5p-c%E1%BB%A1-8.8x8.8x5mm-cho-chip-nh%E1%BB%9B-LED-i.410956428.9172920161?xptdk=409fad90-44e0-46f3-a162-0b94c27037a3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.048"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to +150 degC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V+ Pin=U1-4
+Added Pin To Net: NetName=V+ Pin=U1-8
+Added Member To Class: ClassName=[SCH]_Main Member=Component HS1 ALU_8.8X8.8X5

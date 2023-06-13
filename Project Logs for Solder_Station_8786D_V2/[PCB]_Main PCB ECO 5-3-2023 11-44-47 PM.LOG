@@ -1,0 +1,3 @@
+Change Component Comment : Designator=J2 Old Comment=JUMPER New Comment=24VAC
+Added Pin To Net: NetName=V+ Pin=U1-4
+Added Pin To Net: NetName=V+ Pin=U1-8

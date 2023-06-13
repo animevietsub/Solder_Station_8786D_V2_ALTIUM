@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=V+ Pin=U3-4
+Removed Pin From Net: NetName=V+ Pin=U3-8
+Change Component Description : Designator=C5 Old Description=ALUMINUM??ELECTROLYTIC??CAPACITORS New Description=ALUMINUM??ELECTROLYTIC??CAPACITORS
+Change Component Description : Designator=C18 Old Description=ALUMINUM??ELECTROLYTIC??CAPACITORS New Description=ALUMINUM??ELECTROLYTIC??CAPACITORS
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=+5V_REG Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=+5V_REG Pin=U3-8

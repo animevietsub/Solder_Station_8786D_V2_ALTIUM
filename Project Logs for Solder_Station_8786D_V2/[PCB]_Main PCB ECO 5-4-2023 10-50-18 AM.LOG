@@ -1,0 +1,36 @@
+Change Component Description : Designator=C5 Old Description=ALUMINUM??ELECTROLYTIC??CAPACITORS New Description=ALUMINUM??ELECTROLYTIC??CAPACITORS
+Change Component Description : Designator=C18 Old Description=ALUMINUM??ELECTROLYTIC??CAPACITORS New Description=ALUMINUM??ELECTROLYTIC??CAPACITORS
+Added Component: Designator=S1(SW_TACT_3X3X1.5_SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\NEW_DATA\ELECTRONIC_DOCUMENT\DATASHEET\tact-switch.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Container"; Value = "Connector_Fuse_Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Label"; Value = "Tact Switch 4.5X4.5X5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "https://shopee.vn/N%C3%BAt-Nh%E1%BA%A5n-4-Ch%C3%A2n-Vu%C3%B4ng-%C4%90en-i.101915397.10716198032"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.028"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-25 to +85 degC"; VariantName = "[No Variations]"
+Added Component: Designator=S2(SW_TACT_3X3X1.5_SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\NEW_DATA\ELECTRONIC_DOCUMENT\DATASHEET\tact-switch.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Container"; Value = "Connector_Fuse_Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Label"; Value = "Tact Switch 4.5X4.5X5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "https://shopee.vn/N%C3%BAt-Nh%E1%BA%A5n-4-Ch%C3%A2n-Vu%C3%B4ng-%C4%90en-i.101915397.10716198032"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.028"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-25 to +85 degC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EN-MCU Pin=S1-1
+Added Pin To Net: NetName=EN-MCU Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=BOOT Pin=S2-1
+Added Pin To Net: NetName=BOOT Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=V+ Pin=U1-4
+Added Pin To Net: NetName=V+ Pin=U1-8
+Added Member To Class: ClassName=[SCH]_Main Member=Component S1 RESET
+Added Member To Class: ClassName=[SCH]_Main Member=Component S2 PROG

@@ -1,0 +1,14 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Solder_Station_8786D_V2.PrjPcb]
+   Generated File[[PCB]_Main.GTL]
+   Generated File[[PCB]_Main.GKO]
+   Generated File[[PCB]_Main.RUL]
+   Generated File[[PCB]_Main.EXTREP]
+   Generated File[[PCB]_Main.REP]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 11:33:03 AM On 4/30/2023
