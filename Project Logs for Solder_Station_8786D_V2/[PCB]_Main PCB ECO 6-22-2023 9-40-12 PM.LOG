@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=NetC8_1 Pin=D5-1
+Removed Pin From Net: NetName=+5V_REG Pin=D5-2
+Removed Pin From Net: NetName=IGND Pin=D6-1
+Removed Pin From Net: NetName=NetC8_1 Pin=D6-2
+Removed Member From Class: ClassName=[SCH]_Main Member=D5
+Removed Member From Class: ClassName=[SCH]_Main Member=D6
+Added Component: Designator=R38(RES_10K_SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\NEW_DATA\ELECTRONIC_DOCUMENT\DATASHEET\RC0805.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Container"; Value = "Resistors_Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Label"; Value = "0805_Pack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "https://shopee.vn/Set-100con-%C4%90I%E1%BB%86N-TR%E1%BB%9E-D%C3%81N-0805-c%C3%A1c-lo%E1%BA%A1i-t%E1%BB%AB-1K2-3K-5K6-6K8-...820K-1M-i.633971954.15028739620"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "19"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to +155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R39(RES_10K_SMD_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\NEW_DATA\ELECTRONIC_DOCUMENT\DATASHEET\RC0805.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Container"; Value = "Resistors_Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Label"; Value = "0805_Pack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "https://shopee.vn/Set-100con-%C4%90I%E1%BB%86N-TR%E1%BB%9E-D%C3%81N-0805-c%C3%A1c-lo%E1%BA%A1i-t%E1%BB%AB-1K2-3K-5K6-6K8-...820K-1M-i.633971954.15028739620"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "19"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to +155 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC8_1 Pin=R38-1
+Added Pin To Net: NetName=+5V_REG Pin=R38-2
+Added Pin To Net: NetName=IGND Pin=R39-1
+Added Pin To Net: NetName=NetC8_1 Pin=R39-2
+Added Pin To Net: NetName=V+ Pin=U1-4
+Added Pin To Net: NetName=V+ Pin=U1-8
+Added Member To Class: ClassName=[SCH]_Main Member=Component R38 10K
+Added Member To Class: ClassName=[SCH]_Main Member=Component R39 10K

@@ -1,0 +1,58 @@
+Added Component: Designator=J1(Header 2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\NEW_DATA\ELECTRONIC_DOCUMENT\DATASHEET\5448.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Container"; Value = "Bus_Wire_Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Label"; Value = "XH2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "https://shopee.vn/%C4%90%E1%BA%A7u-n%E1%BB%91i-XH2.54-%C4%90%E1%BB%B1c-C%C3%A1i-C%C3%A1c-Lo%E1%BA%A1i-Header-XH2.54-lo%E1%BA%A1i-%C4%91%E1%BB%B1c-th%E1%BA%B3ng-i.151571719.3589152280?sp_atk=5406bfb8-bf62-463e-a06d-2acb89645f90&xptdk=5406bfb8-bf62-463e-a06d-2acb89645f90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-25 to +85 degC"; VariantName = "[No Variations]"
+Added Component: Designator=J4(Header 2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "E:\NEW_DATA\ELECTRONIC_DOCUMENT\DATASHEET\5448.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Container"; Value = "Bus_Wire_Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Label"; Value = "XH2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "https://shopee.vn/%C4%90%E1%BA%A7u-n%E1%BB%91i-XH2.54-%C4%90%E1%BB%B1c-C%C3%A1i-C%C3%A1c-Lo%E1%BA%A1i-Header-XH2.54-lo%E1%BA%A1i-%C4%91%E1%BB%B1c-th%E1%BA%B3ng-i.151571719.3589152280?sp_atk=5406bfb8-bf62-463e-a06d-2acb89645f90&xptdk=5406bfb8-bf62-463e-a06d-2acb89645f90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-25 to +85 degC"; VariantName = "[No Variations]"
+Added Component: Designator=M1(Header 2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Container"; Value = "Bus_Wire_Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Label"; Value = "XH2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "https://shopee.vn/%C4%90%E1%BA%A7u-n%E1%BB%91i-XH2.54-%C4%90%E1%BB%B1c-C%C3%A1i-C%C3%A1c-Lo%E1%BA%A1i-Header-XH2.54-lo%E1%BA%A1i-%C4%91%E1%BB%B1c-th%E1%BA%B3ng-i.151571719.3589152280?sp_atk=5406bfb8-bf62-463e-a06d-2acb89645f90&xptdk=5406bfb8-bf62-463e-a06d-2acb89645f90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-25 to +85 degC"; VariantName = "[No Variations]"
+Added Component: Designator=M2(Header 2P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Container"; Value = "Bus_Wire_Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Label"; Value = "XH2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "https://shopee.vn/%C4%90%E1%BA%A7u-n%E1%BB%91i-XH2.54-%C4%90%E1%BB%B1c-C%C3%A1i-C%C3%A1c-Lo%E1%BA%A1i-Header-XH2.54-lo%E1%BA%A1i-%C4%91%E1%BB%B1c-th%E1%BA%B3ng-i.151571719.3589152280?sp_atk=5406bfb8-bf62-463e-a06d-2acb89645f90&xptdk=5406bfb8-bf62-463e-a06d-2acb89645f90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-25 to +85 degC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC14_2 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=+34V Pin=M1-2
+Added Pin To Net: NetName=+34V Pin=M2-1
+Added Pin To Net: NetName=V+ Pin=U1-4
+Added Pin To Net: NetName=V+ Pin=U1-8
+Change Net Name : Old Net Name=+34V New Net Name=TC+
+Added Pin To Net: NetName=TC- Pin=M1-1
+Added Pin To Net: NetName=TC- Pin=M2-2
+Added Pin To Net: NetName=TC- Pin=Q2-2
+Added Pin To Net: NetName=TC- Pin=R8-1
+Added Net: Name=TC-
+Added Member To Class: ClassName=[SCH]_Main Member=Component J1 XH2.54-2PIN
+Added Member To Class: ClassName=[SCH]_Main Member=Component J4 XH2.54-2PIN
+Added Member To Class: ClassName=[SCH]_Main Member=Component M1 THERMOCOUPLE
+Added Member To Class: ClassName=[SCH]_Main Member=Component M2 HEATER
